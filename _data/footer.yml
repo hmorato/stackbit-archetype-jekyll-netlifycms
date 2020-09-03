@@ -1,8 +1,7 @@
 about:
   enabled: true
-  title: Integer vitae sed feugiat
-  text: >-
-    Lorem ipsum dolor sit amet interdum mollis sapien. Sed amet ac lorem ipsum
+  title: Integer vitae sed feugiat 2
+  text: Lorem ipsum dolor sit amet interdum mollis sapien. Sed amet ac lorem ipsum
     interdum tempus sagittis lorem tempus.
   actions:
     - label: Learn More
@@ -29,7 +28,7 @@ contact_methods:
       title: Email
       icon: fa-envelope-o
       text: information@untitled.tld
-      url: '#'
+      url: "#"
 copyright:
   enabled: true
-  text: '&copy; Untitled. All rights reserved.'
+  text: "&copy; Untitled. All rights reserved."
